@@ -16,6 +16,15 @@ export const metadata: Metadata = {
   title: "Sai Gaikwad | Developer Portfolio",
   description:
     "Full-stack engineer crafting immersive web experiences with Next.js, 3D, and motion.",
+  icons: {
+    icon: [
+      { url: "/icons/favicon.ico" },
+      { url: "/icons/favicon.svg", type: "image/svg+xml" },
+      { url: "/icons/favicon-96x96.png", sizes: "96x96", type: "image/png" },
+    ],
+    apple: [{ url: "/icons/apple-touch-icon.png", sizes: "180x180" }],
+  },
+  manifest: "/icons/site.webmanifest",
 };
 
 export default function RootLayout({
