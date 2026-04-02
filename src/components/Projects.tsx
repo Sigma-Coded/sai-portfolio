@@ -13,9 +13,9 @@ export default function Projects() {
           </p>
           <h2 className="text-3xl font-semibold">Terminal-inspired builds</h2>
         </div>
-        <p className="max-w-xl text-sm text-slate-600 dark:text-slate-300">
+        {/* <p className="max-w-xl text-sm text-slate-600 dark:text-slate-300">
           Interfaces shaped like terminals, tuned for responsiveness, clarity, and subtle motion cues.
-        </p>
+        </p> */}
       </div>
 
       <div className="mt-8 space-y-8">

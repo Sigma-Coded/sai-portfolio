@@ -22,9 +22,9 @@ export default function Skills() {
           </p>
           <h2 className="text-3xl font-semibold">Tooling I reach for</h2>
         </div>
-        <p className="max-w-xl text-sm text-slate-600 dark:text-slate-300">
+        {/* <p className="max-w-xl text-sm text-slate-600 dark:text-slate-300">
           Practical stack grouped by domain so recruiters and clients can quickly scan frontend, backend, infra, and AI capabilities.
-        </p>
+        </p> */}
       </div>
 
       <motion.div
