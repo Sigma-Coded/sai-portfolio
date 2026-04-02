@@ -11,7 +11,7 @@ export default function Projects() {
           <p className="font-mono text-xs uppercase tracking-[0.2em] text-emerald-400">
             Projects
           </p>
-          <h2 className="text-3xl font-semibold">Terminal-inspired builds</h2>
+          <h2 className="text-3xl font-semibold">Showcase of My Work</h2>
         </div>
         {/* <p className="max-w-xl text-sm text-slate-600 dark:text-slate-300">
           Interfaces shaped like terminals, tuned for responsiveness, clarity, and subtle motion cues.
